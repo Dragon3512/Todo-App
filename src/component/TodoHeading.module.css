@@ -1,0 +1,16 @@
+.Head{
+  text-align: center;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 3.2em;
+  line-height: 1.1;
+  text-align: center;
+
+margin-top: 10px;
+}
+
